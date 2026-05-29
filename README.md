@@ -2,8 +2,9 @@
 
 **Real-Time Data Analytics for IoT** · Graduate Course · Module 1
 
-> **Submission note:** AMQP (Task 3) is skipped per instructor instructions.
-> Tasks 1 (MQTT) and 2 (CoAP) are fully implemented and tested.
+**Student Name:** Darsh Jignesh Pandya
+
+**Student ID:** 101045061
 
 ---
 
